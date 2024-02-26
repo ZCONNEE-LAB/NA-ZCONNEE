@@ -16,7 +16,7 @@ Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/Ac
 
 Click [here](https://kenishia.github.io/NA-ZCONNEE/Remote%20Lab%20System%20Connection%20Instructions.pdf) to read the instruction for IBM System access.
 
-<a href="kenishia.github.io/NA-ZCONNEE/Remote%20Lab%20System%20Connection%20Instructions.pdff" target="_blank">PDF</a>
+<a href="Remote%20Lab%20System%20Connection%20Instructions.pdf" target="_blank">PDF</a>
 
 All lab instructions are in the "Lab Docs" folder on your remote desktop, or can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI2) to view it locally.
 
