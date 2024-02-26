@@ -14,7 +14,7 @@ Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/Ac
 
 ## Accessing the hands-on lab
 
-Click [here](https://zconnee-lab.github.io/NA-ZCONNEE/blob/main/Remote%20Lab%20System%20Connection%20Instructions.pdf) to read the instruction for IBM System access.
+Click [here](https://zconnee-lab.github.io/NA-ZCONNEE/Remote%20Lab%20System%20Connection%20Instructions.pdf) to read the instruction for IBM System access.
 
 <a href="Remote%20Lab%20System%20Connection%20Instructions.pdf" target="_blank">PDF</a>
 
